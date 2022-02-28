@@ -1853,7 +1853,7 @@ Lexxy.sendMessage(_.jid, bc, image, {quoted:freply,caption: `*「  」*\n\n${bod
 reply('Sukses broadcast')
 } else {
 for (let _ of anu) {
-sendMess(_.jid, `*「 𝘽𝙍𝙊𝘼𝘿𝘾𝘼𝙎𝙏 𝙑𝘼𝙉𝙕𝙕 𝙊𝙁𝘾 」*\n\n${body.slice(4)}`)
+sendMess(_.jid, `*「 𝘽𝙍𝙊𝘼𝘿𝘾𝘼𝙎𝙏 𝘽𝙊𝙏 𝙑𝘼𝙉𝙕𝙕 𝙊𝙁𝘾」*\n\n${body.slice(4)}`)
 }
 reply('Sukses broadcast')
 }
